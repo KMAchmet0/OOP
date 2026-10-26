@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Album
+comment1.params=Title\ Artist
+comment1.target=Album(java.lang.String,\ java.lang.String)
+comment2.params=Title
+comment2.target=void\ setAlbumTitle(java.lang.String)
+comment3.params=Artist
+comment3.target=void\ setAlbumArtist(java.lang.String)
+comment4.params=
+comment4.target=int\ getAlbumID()
+comment5.params=
+comment5.target=java.lang.String\ getAlbumTitle()
+comment6.params=
+comment6.target=java.lang.String\ getAlbumArtist()
+comment7.params=
+comment7.target=java.lang.String\ albumFormatDetails()
+numComments=8

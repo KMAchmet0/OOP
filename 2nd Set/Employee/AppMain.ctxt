@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AppMain
+comment1.params=
+comment1.target=int\ getId()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=id
+comment2.target=void\ setId(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDesignation()
+comment6.params=designation
+comment6.target=void\ setDesignation(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCompany()
+comment8.params=company
+comment8.target=void\ setCompany(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

@@ -1,0 +1,111 @@
+public class Beneficiary extends User{
+
+public static void main (String args[]) {
+    int noPersons = 1;
+    System.out.println(noPersons);
+}
+}
+
+
+public class Beneficiary extends User{
+
+int noPersons=1;
+public void test() {
+System.out.println (" Value of People are " +noPersons);
+}
+}
+
+public class Beneficiary extends User{
+
+public static void main(String args[]){  
+//Converting int into Integer  
+int a=1;  
+Integer noPersons =Integer.valueOf(a);//converting int into Integer explicitly  
+  
+  
+System.out.println(noPersons);  
+}
+
+}  
+
+
+
+
+
+   {
+   
+   char ch='c';  
+   
+   Character receivedList =Character.valueOf(ch);
+   
+    
+   ArrayList<Character> RequestDonationList = new ArrayList<Character>();
+  
+        // Autoboxing because ArrayList stores only objects
+        RequestDonationList.add(receivedList);
+        
+  
+        // printing the values from object
+        System.out.println(RequestDonationList.get(0));
+       }
+
+
+
+
+
+
+
+
+
+ArrayList<Integer> RequestDonationList = new ArrayList<Integer>();
+  
+        // Autoboxing because ArrayList stores only objects
+        RequestDonationList.add(25);
+        
+  
+        // printing the values from object
+        System.out.println(RequestDonationList.get(0));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class CustomArrayList  {
+   int n = 5;
+   class ReceivedList {
+      
+      String received;
+      ReceivedList(String received) {
+         this.received =received ;
+      }
+   }
+   public static void main(String args[]) {
+      String received[] = {"Food", "Wood", "Clothes", "Gloves"};
+      CustomArrayList caList = new CustomArrayList();
+      caList.add(received);
+   }
+   public void add( String received[]) {
+      ArrayList<ReceivedList> aList = new ArrayList<>();
+      for (int i = 0; i < n; i++) {
+         aList.add(new ReceivedList(received[i]));
+      }
+      print(aList);
+   }
+   public void print(ArrayList<ReceivedList> aList) {
+      for (int i = 0; i < n; i++) {
+         ReceivedList r = aList.get(i);
+         System.out.println("\nReceived products are: " + r.received);
+         
+      }
+   }
+} 

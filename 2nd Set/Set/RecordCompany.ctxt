@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RecordCompany
+comment1.params=aAlbum
+comment1.target=void\ addAlbum(Album)
+comment2.params=CompanyName\ CompanyCountry\ CompanyID
+comment2.target=RecordCompany(java.lang.String,\ java.lang.String,\ int)
+comment3.params=CompanyName
+comment3.target=void\ setRecordCompanyName(java.lang.String)
+comment4.params=CompanyCountry
+comment4.target=void\ setRecordCompanyCountry(java.lang.String)
+comment5.params=
+comment5.target=int\ getRecordCompanyID()
+comment6.params=
+comment6.target=java.lang.String\ getRecordCompanyName()
+comment7.params=
+comment7.target=java.lang.String\ getRecordCompanyCountry()
+numComments=8

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MySmallBox
+comment1.params=ypsos\ plevraA\ plevraB\ varos
+comment1.target=MySmallBox(double,\ double,\ double,\ double)
+numComments=2

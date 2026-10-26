@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CdAlbum
+comment1.params=Title\ Artist\ noCD
+comment1.target=CdAlbum(java.lang.String,\ java.lang.String,\ int)
+comment2.params=CDnumber
+comment2.target=void\ setNoCD(int)
+comment3.params=
+comment3.target=java.lang.String\ albumFormatDetails()
+numComments=4

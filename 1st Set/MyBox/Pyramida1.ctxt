@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pyramida1
+comment1.params=plevra\ ypsos
+comment1.target=Pyramida1(double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ compute()
+comment4.params=
+comment4.target=double\ epifaneiaVasis()
+numComments=5
